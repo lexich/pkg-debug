@@ -1,7 +1,7 @@
 {
   "name": "pkg-debug",
   "description": "Tool for debug npm package with replace version from npm and local development versions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "http://github.com/lexich/pkg-debug",
   "main": "index.js",
   "bin": {
